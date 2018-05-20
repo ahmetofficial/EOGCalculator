@@ -26,7 +26,7 @@ void loop() {
   
   RLMain=RL-RLReversed;
   UDMain=UD-UDReversed;
-  Serial.print(RLMain);
+  Serial.print(RL);
   Serial.println();
   Serial.flush();
   delay(100);
